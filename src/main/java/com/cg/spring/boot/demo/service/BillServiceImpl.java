@@ -15,7 +15,6 @@ import com.cg.spring.boot.demo.exception.NoSuchMobileNumberException;
 import com.cg.spring.boot.demo.model.Bill;
 import com.cg.spring.boot.demo.repository.BillRepository;
 
-
 @Service
 public class BillServiceImpl implements BillService {
 
